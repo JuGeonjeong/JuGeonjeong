@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi there 👋![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JuGeonjeong%2Fgjbae1212%2Fhit-counter&count_bg=%237FB4B1&title_bg=%&icon_color=%23FFFFFF&title=hits&edge_flat=false)
+## 안녕하세요, 신입개발자 주건정입니다! 👋![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JuGeonjeong%2Fgjbae1212%2Fhit-counter&count_bg=%237FB4B1&title_bg=%&icon_color=%23FFFFFF&title=hits&edge_flat=false)
 <!--
 **JuGeonjeong/JuGeonjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
