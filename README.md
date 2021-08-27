@@ -1,4 +1,4 @@
-<div align="center">
+
   
 ## 안녕하세요, 성장하고 싶은 개발자 주건정입니다! 👋![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JuGeonjeong%2Fgjbae1212%2Fhit-counter&count_bg=%237FB4B1&title_bg=%&icon_color=%23FFFFFF&title=hits&edge_flat=false)
 
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+💪 Skills
+
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"/>
@@ -34,5 +36,3 @@ Here are some ideas to get you started:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --
 -->
-
-</div>
