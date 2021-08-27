@@ -1,12 +1,7 @@
 <div align="center">
   
 ## 안녕하세요, 성장하고 싶은 개발자 주건정입니다! 👋![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JuGeonjeong%2Fgjbae1212%2Fhit-counter&count_bg=%237FB4B1&title_bg=%&icon_color=%23FFFFFF&title=hits&edge_flat=false)
-  <!--
-   ![조던 명언](https://user-images.githubusercontent.com/81910342/129666257-5d4d6db6-ece0-421a-b777-81a54cf7e9d7.PNG)   
- #####  Micheal Jordan
-  ---
 
--->
 <!--
 **JuGeonjeong/JuGeonjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
