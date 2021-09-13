@@ -1,6 +1,7 @@
 
   
-## 기록 👋![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JuGeonjeong%2Fgjbae1212%2Fhit-counter&count_bg=%237FB4B1&title_bg=%&icon_color=%23FFFFFF&title=hits&edge_flat=false)
+## 기록   👋   
+
 
 <!--
 **JuGeonjeong/JuGeonjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💪 Skills
+<!-- 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JuGeonjeong%2Fgjbae1212%2Fhit-counter&count_bg=%237FB4B1&title_bg=%&icon_color=%23FFFFFF&title=hits&edge_flat=false)
+-->
+
+💪 Skills   
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
