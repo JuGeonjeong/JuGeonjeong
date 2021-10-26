@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 💪 Skills   
 
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&logoColor=white"/> <img src="https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&logoColor=white"/> <img src="https://img.shields.io/badge/NEST-000000?style=for-the-badge&logo=Nest.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=black"/>
