@@ -1,6 +1,6 @@
 
   
-## 10:00~22:00   👋   
+## Every 10:00~22:00 study  👋   
 
 
 <!--
@@ -22,15 +22,13 @@ Here are some ideas to get you started:
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JuGeonjeong%2Fgjbae1212%2Fhit-counter&count_bg=%237FB4B1&title_bg=%&icon_color=%23FFFFFF&title=hits&edge_flat=false)
 -->
 
-💪 Skills   
+💪 Doing...  
 
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&logoColor=white"/> <img src="https://img.shields.io/badge/NEST-000000?style=for-the-badge&logo=Nest.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=black"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=black"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white"/>
 
-  
-  
 
   
 <!--![JuGeonjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuGeonjeong&show_icons=true&theme=cobalt) -->
